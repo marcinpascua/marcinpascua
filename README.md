@@ -18,7 +18,7 @@
 <br>
 <div align="center">
 
- 🎓 I'm currently taking up a **Bachelor of Science in Information Technology** <br>
+ 🎓 I'm currently taking up **Bachelor of Science in Information Technology** <br>
  I love crafting cute user experiences, coding cool things, and a sprinkle of creativity everywhere!
  
  </div>
@@ -43,4 +43,4 @@
 <div align="center">
     <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" title="Microsoft SQL Server / SSMS"/><br>
 <br/>
-<hr/>
+
