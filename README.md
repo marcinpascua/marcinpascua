@@ -6,15 +6,6 @@
 
 <h3 align="center">Anyeong! I'm Marcin🌸</h3>
 
-<br/>
-
-<div align="center">
- 
- 🎓 I'm currently taking up a **Bachelor of Science in Information Technology** <br>
- I love crafting cute user experiences, coding cool things, and a sprinkle of creativity everywhere!
- 
- </div>
- 
 <div align="center">
   <a href="mailto:pascua.marcin1@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail" width="35" style="margin-right:10px;"/>
@@ -23,6 +14,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="35"/>
   </a>
 </div>
+
+<br>
+<div align="center">
+
+ 🎓 I'm currently taking up a **Bachelor of Science in Information Technology** <br>
+ I love crafting cute user experiences, coding cool things, and a sprinkle of creativity everywhere!
+ 
+ </div>
+ 
+
 
  <hr/>
  <h2 align="center">Languages</h2>
