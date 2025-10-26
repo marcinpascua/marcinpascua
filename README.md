@@ -1,16 +1,20 @@
-## Hi there 👋
+````markdown name=README.md
+# Anyeong! I'm Marcin🌸
+<I like crafting cute user experiences, coding cool things, and a sprinkle of creativity everywhere!>
 
-<!--
-**marcinpascua/marcinpascua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔗 Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/marcinpascua/)  
+[Email](mailto:pascua.marcin1@gmail.com)  
+
+--
+
+## 🐣 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcinpascua&show_icons=true&theme=tokyonight" alt="marcinpascua's GitHub Stats" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=marcinpascua&theme=tokyonight&hide_border=true" alt="marcinpascua's Streak Stats" height="180"/>
+</p>
+````
