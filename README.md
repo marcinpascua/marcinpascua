@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=marcinpascua&color=grey)
 
 <h1 align="center">
-    <img src="https://media1.tenor.com/m/_7JWmn89DpQAAAAd/100.gif" />
+    <img src="https://media1.tenor.com/m/_7JWmn89DpQAAAAd/100.gif" width="200" height="200"/>
 </h1>
 
 <h3 align="center">Anyeong! I'm Marcin🌸</h3>
@@ -15,12 +15,12 @@
  
  </div>
  
-<div align="center"> 
-  <a href="pascua.marcin1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<div align="center">
+  <a href="mailto:pascua.marcin1@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail" width="35" style="margin-right:10px;"/>
   </a>
   <a href="https://www.linkedin.com/in/marcinpascua/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="35"/>
   </a>
 </div>
 
