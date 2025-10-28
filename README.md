@@ -35,12 +35,13 @@
 <h2 align="center">Frontend Development</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,figma,tailwind" /><br>
 </div>
 
 <h2 align="center">Backend Development</h2>
 <br/>
 <div align="center">
-    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" title="Microsoft SQL Server / SSMS"/><br>
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" title="Microsoft SQL Server / SSMS"/>
+    <img src="https://skillicons.dev/icons?i=php,laravel"/>
 <br/>
 
