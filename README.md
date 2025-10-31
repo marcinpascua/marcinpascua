@@ -14,8 +14,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="35"/>
   </a>
 </div> -->
-<br>
- <hr/>
+ <!-- <hr/>
  <h2 align="center">Languages</h2>
 <br/>
 <div align="center">
@@ -33,5 +32,5 @@
 <div align="center">
     <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" title="Microsoft SQL Server / SSMS"/>
     <img src="https://skillicons.dev/icons?i=php,laravel"/>
-<br/>
+<br/> -->
 
